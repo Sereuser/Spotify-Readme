@@ -269,9 +269,9 @@ You can keep your fork, and thus your private PythonAnywhere instance up to date
 
 This wasn't a completely original idea. This was inspired by <a href="https://github.com/novatorem/novatorem">novatorem's project</a> that was supposed to be for me only. Since others have asked for the source code, I decided to make this a public repo. I also incorporated the latest two PR's from the orignal project into this one and made it easy to customize!
 
-<a href="https://{PA_USERNAME}.pythonanywhere.com/link">
+<a href="https://Vakaefy.pythonanywhere.com/link">
   <img
-    src="https://{PA_USERNAME}.pythonanywhere.com"
+    src="https://Vakaefy.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
